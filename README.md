@@ -1,5 +1,7 @@
 # Reinforcement Learning
 
+![alt text](https://github.com/Fournierp/rl/blob/main/logs/BreakoutNoFrameskip-v4/video/DQN-layers.gif)
+
 ## [Discrete Q-Learning](https://github.com/Fournierp/rl/blob/main/Discrete%20QL.ipynb)
 
 ![alt text](https://github.com/Fournierp/rl/blob/main/logs/Taxi-v3/env.png)
